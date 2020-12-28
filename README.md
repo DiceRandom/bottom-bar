@@ -1,5 +1,5 @@
-# Bottom Bar
-A nice, simple looking, bottom bar. Inspired by CapnKitten's Spotify Discord theme.
+# Bottom Bar for Revert Discord
+A nice, simple looking, bottom bar. Fixed for Revert Discord. Inspired by CapnKitten's Spotify Discord theme.
 
 ## Previews
 ![Preview](https://media.discordapp.net/attachments/738968109288914976/758053722558562478/unknown.png)
