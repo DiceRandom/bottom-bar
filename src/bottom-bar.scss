@@ -20,6 +20,9 @@ $secondary-bar-color: var(--background-secondary-alt); /* Changes misc colors. *
     padding-right: 16px;
     padding-top: 20px;
     margin-top: -10px;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    border-top: 0 !important;
     bottom: -2px;
     background: $primary-bar-color;
 
@@ -31,17 +34,17 @@ $secondary-bar-color: var(--background-secondary-alt); /* Changes misc colors. *
 
 /* Follow Channel */
 .form-2fGMdU .wrapper-39oAo3 {
-    padding-top: 8px;
+    padding-bottom: 28px;
 
     .content-c_0cLD {
-        padding-top: 25px;
+        padding-top: 50px;
 
         .text-2yjo70 {
             padding-bottom: 15px;
         }
 
         + .buttonContainer-3AU1Ij {
-            padding-top: 8px;
+            padding-top: 35px;
         }
     }
 }
@@ -154,4 +157,11 @@ $secondary-bar-color: var(--background-secondary-alt); /* Changes misc colors. *
 
 .channelTextAreaDisabled-8rmlrp { /* Hide Disabled Text Chatbar */
    visibility: hidden;
+}
+
+
+/* Other Revert Discord Fixes */
+.channelTextArea-rNsIhG {
+    margin-top: 21px !important;
+    margin-bottom: 23px !important;
 }
