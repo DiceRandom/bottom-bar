@@ -2,18 +2,12 @@
 A nice, simple looking, bottom bar. Inspired by CapnKitten's Spotify Discord theme.
 
 ## Previews
-![Preview](https://media.discordapp.net/attachments/738968109288914976/754510121748398130/unknown.png?width=1539&height=836)
+![Preview](https://media.discordapp.net/attachments/738968109288914976/758053722558562478/unknown.png)
 
 ## Installation
 For manual installation, go to  **your themes folder, open a command prompt / powershell / terminal / or git bash**  and enter the following:
 ```
-git clone https://github.com/LuckFire/BottomBar
-```
-
-## Other Support Installation
-I have added support for Discord Revert, but I had to put it into another repository. If you're using Revert Discord and would like to use bottom bar, go to  **your themes folder, open a command prompt / powershell / terminal / or git bash**  and enter the following:
-```
-git clone https://github.com/LuckFire/BottomBarRevert
+git clone --single-branch --branch revert-discord https://github.com/LuckFire/BottomBar
 ```
 
 ## Credits 
